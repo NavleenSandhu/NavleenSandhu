@@ -81,5 +81,4 @@
 <p align="center">
   <a href="mailto:navleensandhu2007@gmail.com"><img src="https://img.shields.io/badge/Email-2C3E50?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/navleen-sandhu-252b74253"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/navleenSandhu11"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
